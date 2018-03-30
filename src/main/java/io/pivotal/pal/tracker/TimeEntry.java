@@ -3,6 +3,8 @@ package io.pivotal.pal.tracker;
 import java.time.LocalDate;
 import java.util.Objects;
 
+//Adding comment here
+//
 public class TimeEntry {
 
     private long id;
